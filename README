@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1231
+
+Syntax highlighting for mom, a troff macro package, or as mom's homepage (http://faustus.dyn.ca/mom/mom.html) states: "mom is a typesetting and formatting package used to create high-quality, PostScript documents for printing."
+
+This script is specialized for mom, although that is a troff macro package, this script does only have limited troff highlighting capabilities.
+
